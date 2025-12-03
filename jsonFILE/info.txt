@@ -1,0 +1,9 @@
+Got the AWS S3 credentials (access key and secret key) from the AWS console
+
+Accessed the scores.json file stored in the S3 bucket
+
+Converted the JSON file into a Python-readable format
+
+Created a CSV file
+
+Converted the JSON records to the CSV format with columns Name and Score
