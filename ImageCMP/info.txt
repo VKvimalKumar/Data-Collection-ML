@@ -1,0 +1,9 @@
+Got the images to compare
+
+Loaded the images into Python using OpenCV (cv2)
+
+Processed the images for comparison
+
+Performed the image comparison operation
+
+Generated the result/output showing differences between the images
